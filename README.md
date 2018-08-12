@@ -8,9 +8,9 @@ I live in the city of Ranchi, in the state of Jharkhand, in India.
 
 Three of my favourite books are:
 
--*The Fourth Estate* by Jeffery Archer
--*Grapes of Wrath* by Joh Stienbeck
--*The Namesake* by Jumpa Lahiri
+- *The Fourth Estate* by Jeffery Archer
+- *Grapes of Wrath* by Joh Stienbeck
+- *The Namesake* by Jumpa Lahiri
 
 ###Food
 
